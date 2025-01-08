@@ -12,3 +12,13 @@ strings = str(lists)
 
 print("Here is Strings : ", strings)
 print(f"Type of Strings : {type(strings)}")
+
+
+# Here we select only Numerical values in the List
+# what if we take the Alphanumeric values in the List
+
+### think about it....
+# in this case this method will not work..
+## see the more option ...
+
+#like : join, list Comprehension, iteration and more...
